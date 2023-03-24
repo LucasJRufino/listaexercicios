@@ -6,4 +6,4 @@ for i in range(5):
 
 for i in lista:
     if i % 2 == 0:
-        print(i, " ")
+        print(i)
