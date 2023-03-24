@@ -3,7 +3,7 @@
 
 lista = []
 for i in range(5):
-    lista.append(input("Insira um número: "))
+    lista.append(input("Insira uma palavra: "))
 
 for i in lista:
     if i.lower().startswith('a'):
